@@ -46,6 +46,4 @@ Students may use the following format:
 As a [type of user],
 I want to [goal],
 so that [benefit or value].
-As a [type of user],
-I want to [goal],
-so that [benefit or value].
+
