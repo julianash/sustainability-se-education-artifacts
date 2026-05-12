@@ -48,20 +48,3 @@ I want to [goal],
 so that [benefit or value].
 
 
-A user story should make clear:
-
-- who the user or actor is;
-- what the user wants to do;
-- why this is important;
-- what value or benefit is expected.
-
-## Acceptance criteria
-
-Acceptance criteria should help verify whether a user story has been satisfactorily addressed.
-
-They may be written using the following format:
-
-```text
-Given [context],
-When [action],
-Then [expected result].
